@@ -47,3 +47,24 @@ h1 {
 #data-user {
   display: flex;
 }
+
+#animation {
+  display: flex;
+  max-width: 100%;
+  max-height: max-content;
+}
+
+#result {
+  animation: myfirst 5s linear 2s infinite alternate;
+  color: black;
+  position: relative;
+  font-size: x-large;
+}
+
+@keyframes myfirst {
+  0%   {color:red; left:0px; top:0px;}
+  25%  {color:rgb(0, 255, 21); left:200px; top:0px;}
+  50%  {color:blue; left:200px; top:200px;}
+  75%  {color:green; left:0px; top:200px;}
+  100% {color:red; left:0px; top:0px;}
+}
