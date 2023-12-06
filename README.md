@@ -9,4 +9,9 @@
 </ol>
 <p>Além da lógica para conversão do binário em decimal, destaca-se a restrição de que no máximo sejam digitados 8 digitos e a notificação ao usuário da permissão restrita de inserção de 0 ou 1</p>
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/SamuelRocha91/Bin2Dec)
+<a  
+  href='https://drum-machine-opal-pi.vercel.app/'
+  target='_blank'
+  >
+  Ver aplicação
+</a>
