@@ -37,9 +37,10 @@
 
 إليك بعض المشاريع الأخرى التي قمت بتطويرها خلال المراحل الأولى من مسيرتي التطويرية:
 
-- [مشروع 1](#) – وصف موجز للمشروع.
-- [مشروع 2](#) – وصف موجز للمشروع.
-- [مشروع 3](#) – وصف موجز للمشروع.
+- [Calculadora](https://github.com/SamuelRocha91/calculator/blob/main/README_ar.md)
+- [Gerador de memes](https://github.com/SamuelRocha91/memeGenerator/blob/main/README_ar.md)
+- [Pixels Art](https://github.com/SamuelRocha91/PixelsArt/blob/main/README_ar.md)
+- [Todo List](https://github.com/SamuelRocha91/TodoList/blob/main/README_ar.md)
 
 ## كيفية التشغيل
 

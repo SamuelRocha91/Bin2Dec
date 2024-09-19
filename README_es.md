@@ -37,9 +37,10 @@ Durante el desarrollo de este proyecto, se mejoraron las siguientes habilidades:
 
 Aquí están otros proyectos que desarrollé durante las primeras etapas de mi viaje en el desarrollo:
 
-- [Proyecto 1](#) – Breve descripción del proyecto.
-- [Proyecto 2](#) – Breve descripción del proyecto.
-- [Proyecto 3](#) – Breve descripción del proyecto.
+- [Calculadora](https://github.com/SamuelRocha91/calculator/blob/main/README_es.md)
+- [Gerador de memes](https://github.com/SamuelRocha91/memeGenerator/blob/main/README_es.md)
+- [Pixels Art](https://github.com/SamuelRocha91/PixelsArt/blob/main/README_es.md)
+- [Todo List](https://github.com/SamuelRocha91/TodoList/blob/main/README_es.md)
 
 ## Cómo Ejecutar
 

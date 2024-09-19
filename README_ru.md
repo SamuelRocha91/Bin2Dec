@@ -37,9 +37,10 @@
 
 Вот другие проекты, которые я разработал на ранних этапах моего пути в разработке:
 
-- [Проект 1](#) – Краткое описание проекта.
-- [Проект 2](#) – Краткое описание проекта.
-- [Проект 3](#) – Краткое описание проекта.
+- [Calculadora](https://github.com/SamuelRocha91/calculator/blob/main/README_ru.md)
+- [Gerador de memes](https://github.com/SamuelRocha91/memeGenerator/blob/main/README_ru.md)
+- [Pixels Art](https://github.com/SamuelRocha91/PixelsArt/blob/main/README_ru.md)
+- [Todo List](https://github.com/SamuelRocha91/TodoList/blob/main/README_ru.md)
 
 ## Как Запустить
 
