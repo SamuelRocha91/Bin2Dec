@@ -2,15 +2,8 @@
 
 ![Demonstração](./gifs/conversor.gif)
 
-<h2>🌐</h2>
-<ul>
-  <li><a href="https://github.com/SamuelRocha91/Bin2Dec" target="_blank">Português</a></li>
-  <li><a href="https://github.com/SamuelRocha91/Bin2Dec/blob/main/README_es.md" target="_blank">Español</a></li>
-  <li><a href="https://github.com/SamuelRocha91/Bin2Dec/blob/main/README_en.md" target="_blank">English</a></li>
-  <li><a href="https://github.com/SamuelRocha91/Bin2Dec/blob/main/README_ru.md" target="_blank">Русский</a></li>
-  <li><a href="https://github.com/SamuelRocha91/Bin2Dec/blob/main/README_ch.md" target="_blank">中文</a></li>
-  <li><a href="https://github.com/SamuelRocha91/Bin2Dec/blob/main/README_ar.md" target="_blank">العربية</a></li>
-</ul>
+## 🌐 [![Português](https://img.shields.io/badge/Português-green)](https://github.com/SamuelRocha91/Bin2Dec/blob/main/README.md) [![Español](https://img.shields.io/badge/Español-yellow)](https://github.com/SamuelRocha91/Bin2Dec/blob/main/README_es.md) [![English](https://img.shields.io/badge/English-blue)](https://github.com/SamuelRocha91/Bin2Dec/blob/main/README_en.md) [![Русский](https://img.shields.io/badge/Русский-lightgrey)](https://github.com/SamuelRocha91/Bin2Dec/blob/main/README_ru.md) [![中文](https://img.shields.io/badge/中文-red)](https://github.com/SamuelRocha91/Bin2Dec/blob/main/README_ch.md) [![العربية](https://img.shields.io/badge/العربية-orange)](https://github.com/SamuelRocha91/Bin2Dec/blob/main/README_ar.md)
+
 
 ## Visão Geral
 
@@ -37,11 +30,11 @@ Durante o desenvolvimento deste projeto, as seguintes habilidades foram aprimora
 
 Aqui estão outros projetos que desenvolvi durante as etapas iniciais da minha jornada de desenvolvimento:
 
-- [Calculadora](https://github.com/SamuelRocha91/calculator)
-- [Gerador de memes](https://github.com/SamuelRocha91/memeGenerator)
-- [Pixels Art](https://github.com/SamuelRocha91/PixelsArt)
-- [Todo List](https://github.com/SamuelRocha91/TodoList)
-
+- 🧮 [Calculadora](https://github.com/SamuelRocha91/calculator)
+- 🦖 [Gerador de memes](https://github.com/SamuelRocha91/memeGenerator)
+- 🎨 [Pixels Art](https://github.com/SamuelRocha91/PixelsArt)
+- 📝 [Todo List](https://github.com/SamuelRocha91/TodoList)
+- 🪐 [Star Wars Planets](https://github.com/SamuelRocha91/javascriptStarWarsPlanets)
 ## Como Executar
 
 1. Clone este repositório:
