@@ -1,46 +1,66 @@
-# ![Logo de Proyecto de Principiante](https://img.icons8.com/emoji/48/000000/star-emoji.png) Convertidor Binario a Decimal ![Logo de Proyecto de Principiante](https://img.icons8.com/emoji/48/000000/star-emoji.png)
+# <img src="https://cdn-icons-png.flaticon.com/128/5701/5701867.png" alt="Beginner Logo" width="52" height="30" /> Conversor de Binario <img src="https://cdn-icons-png.flaticon.com/128/5701/5701867.png" alt="Beginner Logo" width="52" height="30" />
 
 ![Demostración](./gifs/conversor.gif)
 
-## 🌐 [![Português](https://img.shields.io/badge/Português-green)](https://github.com/SamuelRocha91/Bin2Dec/blob/main/README.md) [![Español](https://img.shields.io/badge/Español-yellow)](https://github.com/SamuelRocha91/Bin2Dec/blob/main/README_es.md) [![English](https://img.shields.io/badge/English-blue)](https://github.com/SamuelRocha91/Bin2Dec/blob/main/README_en.md) [![Русский](https://img.shields.io/badge/Русский-lightgrey)](https://github.com/SamuelRocha91/Bin2Dec/blob/main/README_ru.md) [![中文](https://img.shields.io/badge/中文-red)](https://github.com/SamuelRocha91/Bin2Dec/blob/main/README_ch.md) [![العربية](https://img.shields.io/badge/العربية-orange)](https://github.com/SamuelRocha91/Bin2Dec/blob/main/README_ar.md)
-## Descripción
+## 🌐 
+[![Português](https://img.shields.io/badge/Português-green)](https://github.com/SamuelRocha91/Bin2Dec/blob/main/README.md) 
+[![Español](https://img.shields.io/badge/Español-yellow)](https://github.com/SamuelRocha91/Bin2Dec/blob/main/README_es.md) 
+[![English](https://img.shields.io/badge/English-blue)](https://github.com/SamuelRocha91/Bin2Dec/blob/main/README_en.md) 
+[![Русский](https://img.shields.io/badge/Русский-lightgrey)](https://github.com/SamuelRocha91/Bin2Dec/blob/main/README_ru.md) 
+[![中文](https://img.shields.io/badge/中文-red)](https://github.com/SamuelRocha91/Bin2Dec/blob/main/README_ch.md) 
+[![العربية](https://img.shields.io/badge/العربية-orange)](https://github.com/SamuelRocha91/Bin2Dec/blob/main/README_ar.md)
 
-Este es un proyecto de conversión de números binarios a decimales. El objetivo principal fue crear una aplicación simple que convierte números binarios a sus equivalentes decimales usando **JavaScript**, **HTML**, **CSS** y **Vite**.
+<details>
+<summary><h2>Visión General</h2></summary>
 
-## Características
+Este es un proyecto de conversor de números binarios a decimales. El objetivo principal fue crear una aplicación simple que convierte números binarios en sus equivalentes decimales utilizando **JavaScript**, **HTML**, **CSS**, y **Vite**.
 
-La aplicación permite a los usuarios:
+</details>
 
-- **Convertir números binarios a decimales**: Introducir un número binario y ver su equivalente decimal.
-- **Limitar la entrada**: Los números binarios deben tener un máximo de 8 dígitos y solo se permiten los dígitos 0 y 1.
-- **Notificaciones de entrada inválida**: Notificar al usuario si intenta ingresar caracteres diferentes a 0 o 1.
+<details>
+<summary><h2>Funcionalidades</h2></summary>
 
-## Habilidades Desarrolladas
+La aplicación permite que los usuarios:
+
+- **Convertir números binarios a decimales**: Ingresa un número binario y ve su valor decimal correspondiente.
+- **Limitar la entrada**: El número binario debe tener un máximo de 8 dígitos y solo se permiten los dígitos 0 y 1.
+- **Notificaciones de entrada inválida**: Recibe una notificación si intentas ingresar caracteres diferentes de 0 o 1.
+
+</details>
+
+<details>
+<summary><h2>Habilidades Desarrolladas</h2></summary>
 
 Durante el desarrollo de este proyecto, se mejoraron las siguientes habilidades:
 
-1. **Lógica de Programación**: Implementar la lógica para convertir números binarios a decimales.
-2. **JavaScript**: Manejar eventos y manipular el DOM para proporcionar retroalimentación al usuario.
-3. **HTML/CSS**: Crear y estilizar interfaces de usuario.
-4. **Vite**: Configurar y usar un empaquetador moderno para optimizar el desarrollo.
+1. **Lógica de Programación**: Implementación de lógica para la conversión de números binarios a decimales.
+2. **JavaScript**: Manejo de eventos y manipulación del DOM para proporcionar retroalimentación al usuario.
+3. **HTML/CSS**: Creación y estilización de interfaces de usuario.
+4. **Vite**: Configuración y uso de un bundler moderno para optimizar el desarrollo.
 
-## Otros Proyectos para Principiantes
+</details>
 
-Aquí están otros proyectos que desarrollé durante las primeras etapas de mi viaje en el desarrollo:
+<details>
+<summary><h2>Otros Proyectos para Principiantes</h2></summary>
+
+Aquí hay otros proyectos que desarrollé durante las etapas iniciales de mi viaje de desarrollo:
 
 - 🧮 [Calculadora](https://github.com/SamuelRocha91/calculator/blob/main/README_es.md)
-- 🦖 [Gerador de memes](https://github.com/SamuelRocha91/memeGenerator/blob/main/README_es.md)
-- 🎨 [Pixels Art](https://github.com/SamuelRocha91/PixelsArt/blob/main/README_es.md)
-- 📝 [Todo List](https://github.com/SamuelRocha91/TodoList/blob/main/README_es.md)
-- 🪐 [Star Wars Planets](https://github.com/SamuelRocha91/javascriptStarWarsPlanets/blob/main/README_es.md)
-- 
-## Cómo Ejecutar
+- 🦖 [Generador de Memes](https://github.com/SamuelRocha91/memeGenerator/blob/main/README_es.md)
+- 🎨 [Arte en Píxeles](https://github.com/SamuelRocha91/PixelsArt/blob/main/README_es.md)
+- 📝 [Lista de Tareas](https://github.com/SamuelRocha91/TodoList/blob/main/README_es.md)
+- 🪐 [Planetas de Star Wars](https://github.com/SamuelRocha91/javascriptStarWarsPlanets/blob/main/README_es.md)
+
+</details>
+
+<details>
+<summary><h2>Cómo Ejecutar</h2></summary>
 
 1. Clona este repositorio:
    ```bash
    git clone https://github.com/SamuelRocha91/Bin2Dec.git
    ```
-2. Navega al directorio del proyecto:
+2. Navega hasta el directorio del proyecto:
    ```bash
    cd Bin2Dec
    ```
@@ -54,3 +74,4 @@ Aquí están otros proyectos que desarrollé durante las primeras etapas de mi v
    ```
 5. Abre tu navegador y ve a `http://localhost:3000` para ver la aplicación en acción.
 
+</details>
